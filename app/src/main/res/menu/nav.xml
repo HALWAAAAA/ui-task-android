@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/following" android:icon="@drawable/heart" android:id="@+id/follow" />
+    <item android:title="@string/browse" android:icon="@drawable/tv" android:id="@+id/browse" />
+    <item android:title="@string/search" android:icon="@drawable/search" android:id="@+id/search"/>
+</menu>

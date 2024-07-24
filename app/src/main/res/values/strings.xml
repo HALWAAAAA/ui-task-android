@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Twitch</string>
+    <string name="backimage">backimage</string>
+    <string name="icon">TODO</string>
+    <string name="username">Username</string>
+    <string name="welcome_back">Enter the code sent to you by text message or found in your authenticator app.</string>
+    <string name="your_live_channels">Your live channels</string>
+    <string name="dota">dota</string>
+    <string name="Personalization">Personalization</string>
+    <string name="nosferatu" />
+    <string name="hs" />
+    <string name="privacy">Privacy</string>
+    <string name="notifications">Notifications</string>
+    <string name="back">Back</string>
+    <string name="new_feature">New feature</string>
+    <string name="find_new_streams_and_streamers">Find new streams and streamers!\nExplore and find smth new!</string>
+    <string name="politics">politics</string>
+    <string name="justchatting" />
+    <string name="Back">Back</string>
+    <string name="avatar">avatar</string>
+    <string name="trouble_logging_in">Trouble logging in?</string>
+    <string name="Password">Password</string>
+    <string name="login">Login</string>
+    <string name="two_factor_authentication">Two-Factor Authentication</string>
+    <string name="welcome_back1">Welcome Back!</string>
+    <string name="need_help">Need help?</string>
+    <string name="resend_code">Resend code</string>
+    <string name="submit">Submit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello">Hello </string>
+    <string name="hello_blank">Hello blank </string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="following">Following</string>
+    <string name="browse">Browse</string>
+    <string name="search">Search</string>
+    <string name="categories">Categories</string>
+    <string name="just_chatting">Just Chatting</string>
+    <string name="dota_2">Dota 2</string>
+    <string name="hearthstone">Hearthstone</string>
+    <string name="counter_strike">Counter-Strike</string>
+    <string name="politics1">Politics</string>
+    <string name="pubg_battlegrounds">PUBG:BATTLEGROUNDS</string>
+    <string name="_26_6k_viewers">26.6K Viewers</string>
+    <string name="_74_4k_viewers">74.4K Viewers</string>
+    <string name="_557_3k_viewers">557.3K Viewers</string>
+    <string name="_70k_viewers">70K Viewers</string>
+    <string name="_163_6k_viewers">163.6K Viewers</string>
+    <string name="_2_2k_viewers">2.2K Viewers</string>
+    <string name="rdulive">RduLive</string>
+    <string name="ceh9">ceh9</string>
+    <string name="belonytv">BelonyTV</string>
+    <string name="_1mpala">1mpala</string>
+    <string name="crazy_gameplay">DROPS Crazy gameplay</string>
+    <string name="playing_games_and_chatting">Playing games and chatting</string>
+    <string name="try_hard_in_dota">Try hard in Dota</string>
+    <string name="catching_cheaters">CATCHING CHEATERS</string>
+    <string name="kaktusoidka">kaktusoidka</string>
+    <string name="watching_film">Watching film</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="taras_kotsyuba">Taras Kotsyuba</string>
+    <string name="system">System</string>
+    <string name="payments_and_payouts">Payments and Payouts</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="payments">Payments</string>
+    <string name="updates">updates</string>
+
+</resources>
